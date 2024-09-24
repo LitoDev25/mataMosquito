@@ -1,7 +1,7 @@
 var altura = 0;
 var largura = 0;
 var vidas = 1;
-var time = 50;
+var time = 60;
 var subSco;
 var timSubSco;
 var congra;
